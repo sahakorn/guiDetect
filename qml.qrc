@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>picture/pic.png</file>
+        <file>menu/Main_menu.qml</file>
+        <file>menu/Date_time.qml</file>
+        <file>picture/bg.png</file>
+    </qresource>
+</RCC>
